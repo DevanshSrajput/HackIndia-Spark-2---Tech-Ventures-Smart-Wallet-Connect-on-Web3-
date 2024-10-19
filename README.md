@@ -14,7 +14,7 @@ This is a simple lottery smart contract written in Solidity. It allows users to 
 
 To deploy and interact with this contract, you need to have the following tools installed:
 
-1. **Node.js: Download and install Node.js from [nodejs.org](https://nodejs.org/).
+1. **Node.js**: Download and install Node.js from [nodejs.org](https://nodejs.org/).
 2. **Truffle**: Install Truffle globally using npm:
    ```bash
    npm install -g truffle
